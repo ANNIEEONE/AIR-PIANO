@@ -107,4 +107,4 @@ The app only cares about **one** of those 21 points: the index fingertip. It con
 
 ## 👤 Author
 
-ANNIEONE
+ANNIEEONE
